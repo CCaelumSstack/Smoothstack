@@ -11,7 +11,7 @@ import java.util.Scanner;
 /**
  * @author Carolina Caelum
  * @date February 24, 2021
- * Smoothstack Week One Day 3 Assignment One
+ * Smoothstack Week One Day 3 Assignment Two
  * Append text to an existing file
  */
 public class DayThreeAssignmentTwo {
